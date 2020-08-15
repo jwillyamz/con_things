@@ -28,8 +28,8 @@
 
 ![X33f](pics/x33f.PNG)
 
-### SANS Blue Team Summit 2019 
-#### To Blue with ATT&CK-Flavored Love [(Video)](https://youtu.be/9X-LO7aGr2s)
+## SANS Blue Team Summit 2019 
+### To Blue with ATT&CK-Flavored Love [(Video)](https://youtu.be/9X-LO7aGr2s)
 
 ![SANS_Blue](pics/sans.PNG)
 
