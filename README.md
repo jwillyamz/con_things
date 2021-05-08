@@ -1,11 +1,26 @@
 # Upcoming
 
+## SANS Purple Team Summit 2021
+### Which Came First: The Phish or the Opportunity to Defend Against It w/ @thecookiewanter [(Agenda)](https://www.sans.org/event/purple-team-summit-2021/summit-agenda)
+
+
+## SANS CloudSecNext Summit 2021
+### Which way is the SolarWind Blowing? Techniques are changing…are you ready? w/ @stromcoffee [(Agenda)](https://www.sans.org/event/cloudsecnext-summit-2021/summit-agenda)
+
+
+# Past
+
+## MITRE ATT&CKcon Power Hour 2020
+### Putting the PRE into ATT&CK w/ @thecookiewanter [(Video)](https://youtu.be/M_uG_hlmTcA)
+
+![SANS_THIR](pics/pre.jpg)
+
+
 ## SANS Threat Hunting & IR Summit 2020
-### Started from the Bottom: Exploiting Data Sources to Uncover ATT&CK Behaviors w/ @Cyb3rPanda [(Agenda)](http://www.sans.org/u/16PP)
+### Started from the Bottom: Exploiting Data Sources to Uncover ATT&CK Behaviors w/ @Cyb3rPanda [(Video)](https://youtu.be/eKeydMrXsOE)
 
 ![SANS_THIR](pics/sans2.jpg)
 
-# Past
 
 ## GRIMMCon 0x2
 ### Reaping What They Sow - Hard Lessons Learned Emulating Threat Actors [(Video)](https://youtu.be/6bER6cfkj_s)
