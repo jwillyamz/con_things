@@ -10,10 +10,15 @@
 
 # Past
 
+## SANS Blueprint Podcast
+### Episode 20: Adversary Emulation w/ @SecHubb [(Audio)](https://www.sans.org/blueprint-podcast/adversary-emulation-with-jamie-williams)
+
+![SANS_BP](pics/bluePrint.PNG)
+
 ## MITRE ATT&CKcon Power Hour 2020
 ### Putting the PRE into ATT&CK w/ @thecookiewanter [(Video)](https://youtu.be/M_uG_hlmTcA)
 
-![SANS_THIR](pics/pre.jpg)
+![PRE](pics/pre.jpg)
 
 
 ## SANS Threat Hunting & IR Summit 2020
