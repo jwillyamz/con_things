@@ -1,14 +1,42 @@
 # Upcoming
 
-## SANS Purple Team Summit 2021
-### Which Came First: The Phish or the Opportunity to Defend Against It w/ @thecookiewanter [(Agenda)](https://www.sans.org/event/purple-team-summit-2021/summit-agenda)
+## UNICON 2022
+### Should Your Red Team Really Care About Detection Data Sources? What ATT&CK Can Show Us…
 
-
-## SANS CloudSecNext Summit 2021
-### Which way is the SolarWind Blowing? Techniques are changing…are you ready? w/ @stromcoffee [(Agenda)](https://www.sans.org/event/cloudsecnext-summit-2021/summit-agenda)
+![UNICON](pics/UNICON.PNG)
 
 
 # Past
+
+## MITRE Engenuity Threat-Informed Defense User Conference
+### The Purple Elephant in the Room w/ Michael Long & Steve Luke [(Video)](https://youtu.be/Jxa5F2UyrrA)
+
+![CTID_PURPLE](pics/CTID_PURP.PNG)
+
+## MITRE Engenuity Threat-Informed Defense User Conference
+### Sharing is Caring and Awkward Conversations That Bring Us Together w/ @FrankDuff [(Video)](https://youtu.be/a6EQgC33D7s)
+
+![CTID_EVALS](pics/CTID_SHARE.PNG)
+
+## Roundup by Wild West Hackin' Fest: Purple Team 
+### A Look at ATT&CK Evaluations Through Purple Colored Glasses w/ @FrankDuff [(Video)](https://youtu.be/wqPBY71tr9Y?t=3h30m27s)
+
+![WWHF](pics/WWHF.PNG)
+
+## DEF CON 29 Adversary Village
+### Panel discussion: Is Adversary Emulation Too ___ For You? w/ @FrankDuff, Michael Long, @teschulz, @coolestcatiknow, & Jose Barajas [(Video)](https://youtu.be/HUmjhf-vSG0)
+
+![DC_PURPLE](pics/dcPurp.PNG)
+
+## SANS Purple Team Summit 2021
+### Which Came First: The Phish or the Opportunity to Defend Against It w/ @thecookiewanter [(Video)](https://youtu.be/bflFC3b4WUg)
+
+![SANS_PRE](pics/sans4.PNG)
+
+## SANS CloudSecNext Summit 2021
+### Which way is the SolarWind Blowing? Techniques are changing…are you ready? w/ @stromcoffee [(Video)](https://youtu.be/7tf-dlV1vXM)
+
+![SANS_CLOUD](pics/sans3.PNG)
 
 ## SANS Blueprint Podcast
 ### Episode 20: Adversary Emulation w/ @SecHubb [(Audio)](https://www.sans.org/blueprint-podcast/adversary-emulation-with-jamie-williams)
@@ -20,18 +48,15 @@
 
 ![PRE](pics/pre.jpg)
 
-
 ## SANS Threat Hunting & IR Summit 2020
 ### Started from the Bottom: Exploiting Data Sources to Uncover ATT&CK Behaviors w/ @Cyb3rPanda [(Video)](https://youtu.be/eKeydMrXsOE)
 
 ![SANS_THIR](pics/sans2.jpg)
 
-
 ## GRIMMCon 0x2
 ### Reaping What They Sow - Hard Lessons Learned Emulating Threat Actors [(Video)](https://youtu.be/6bER6cfkj_s)
 
 ![Grimm](pics/grimm.PNG)
-
 
 ## Virtual SOURCE Boston 2020
 ### Getting Bear-y Cozy with PowerShell: Defensive Lessons Learned from Emulating the Dukes w/ @thecookiewanter [(Slides)](https://www.slideshare.net/JamieWilliams130/getting-beary-cozy-with-powershell)
