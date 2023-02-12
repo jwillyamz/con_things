@@ -1,12 +1,23 @@
 # Upcoming
 
-## UNICON 2022
-### Should Your Red Team Really Care About Detection Data Sources? What ATT&CK Can Show Us…
-
-![UNICON](pics/UNICON.PNG)
-
+👀
 
 # Past
+
+## Atomics on a Friday 
+### APT29 Emulation Plan Part 1 [(Video)](https://www.youtube.com/live/Qq-5hkOvfMQ?feature=share) and Part 2 [(Video)](https://youtu.be/FzfXyq6eL4k) w/ @burning_pm & @M_haggis
+
+![Atomics](pics/atomics.PNG)
+
+## Detection: Challenging Paradigms (DCP) Podcast
+### Episodes 24 [(Video)](https://youtu.be/LACAHuVxWwk) and Episode 26 [(Video)](https://youtu.be/L6OZCR6KlPQ) w/ @jaredcatkinson, @jsecurity101, & @v3r5ace
+
+![DCP](pics/DCP.PNG)
+
+## UNICON 2022
+### Should Your Red Team Really Care About Detection Data Sources? What ATT&CK Can Show Us…[(Video)](https://youtu.be/qLmWnrJMg6o)
+
+![UNICON](pics/UNICON.PNG)
 
 ## MITRE Engenuity Threat-Informed Defense User Conference
 ### The Purple Elephant in the Room w/ Michael Long & Steve Luke [(Video)](https://youtu.be/Jxa5F2UyrrA)
