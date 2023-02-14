@@ -1,6 +1,7 @@
 # Upcoming
 
-👀
+## Purple Hats 2023
+### You Want Us to Emulate What!?! [(Agenda)](https://www.purplehats.org/2023/agenda)
 
 # Past
 
