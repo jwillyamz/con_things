@@ -3,6 +3,11 @@
 ## Purple Hats 2023
 ### You Want Us to Emulate What!?! [(Agenda)](https://www.purplehats.org/2023/agenda)
 
+## RSAC Adversary Sandbox 2023
+### Dressing Adversary Emulation in Business Attire: Outcomes and Successes
+
+![RSAC](pics/RSAC.jpg)
+
 # Past
 
 ## Atomics on a Friday 
