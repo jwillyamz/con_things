@@ -5,12 +5,12 @@
 
 ![PH23](pics/PH.png)
 
-## RSAC Adversary Sandbox 2023
-### Dressing Adversary Emulation in Business Attire: Outcomes and Successes [(Agenda)](https://www.rsaconference.com/USA/agenda/session/Dressing%20Adversary%20Emulation%20in%20Business%20Attire%20Outcomes%20and%20Successes)
-
-![RSAC](pics/RSAC.jpg)
-
 # Past
+
+## RSAC Adversary Sandbox 2023
+### Dressing Adversary Emulation in Business Attire: Outcomes and Successes (Slides in /docs)
+
+![RSAC](pics/rsac.PNG)
 
 ## Atomics on a Friday 
 ### APT29 Emulation Plan Part 1 [(Video)](https://www.youtube.com/live/Qq-5hkOvfMQ?feature=share) and Part 2 [(Video)](https://youtu.be/FzfXyq6eL4k) w/ @burning_pm & @M_haggis
